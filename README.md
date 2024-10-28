@@ -1,8 +1,6 @@
-
 # Challenge 4 Binar - Rental Cars
 
 Pada Challenge 4 ini, kita membuat program Backend menggunakan ExpressJs dan NodeJs serta penggunaan database menggunakan Posgress SQL.
-
 
 ## Authors
 
@@ -10,13 +8,19 @@ Pada Challenge 4 ini, kita membuat program Backend menggunakan ExpressJs dan Nod
 - CRUD Manufactures Table : [@Bhisma Haris Alfitrah](https://github.com/bhismaharis)
 - CRUD Types Table: [@David Vincent Gurning](https://github.com/davidgurning)
 
+## admin account :
+
+- **Email**: gurningdavid4@email.com
+- **Password**: Vincen123
+- **role** : admin
+- **token** : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo1LCJpYXQiOjE3MzAwODQ5MTMsImV4cCI6MTczMDM0NDExM30.LfjFmttUNfs3GfpJX5e3PpgI066PUxasMS0SJfFgjzc"
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/MichaelJD-MJD/Kelompok7-Car-Management-Dashboard.git
+  git clone https://github.com/davidgurning/24001182-km7-dav-authcars-ch5.git
 ```
 
 Go to the project directory
@@ -37,7 +41,6 @@ Start the server
   npm run dev
 ```
 
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -50,9 +53,6 @@ To run this project, you will need to add the following environment variables to
 
 `IMAGEKIT_URL_ENDPOINT`
 
-
-
 ## Tech Stack
 
 **Server:** Node, Express
-
