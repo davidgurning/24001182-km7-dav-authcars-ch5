@@ -27,7 +27,6 @@ CREATE TABLE "manufactures" (
     "office" VARCHAR(100),
     "country" VARCHAR(50),
     "logo" VARCHAR(255),
-
     CONSTRAINT "manufactures_pkey" PRIMARY KEY ("id")
 );
 
