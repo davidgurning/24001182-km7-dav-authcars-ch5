@@ -3,7 +3,6 @@ const { BadRequestError } = require("../utils/request");
 
 exports.validateGetAll = (req, res, next) => {
   const schema = z.object({
-    name: z.string().optional(),
     establisment: z.string().optional(),
     country: z.string().optional(),
   });

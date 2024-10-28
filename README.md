@@ -10,10 +10,10 @@ Pada Challenge 4 ini, kita membuat program Backend menggunakan ExpressJs dan Nod
 
 ## admin account :
 
-- **Email**: gurningdavid4@email.com
+- **Email**: davidgurning4@email.com
 - **Password**: Vincen123
 - **role** : admin
-- **token** : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo1LCJpYXQiOjE3MzAwODQ5MTMsImV4cCI6MTczMDM0NDExM30.LfjFmttUNfs3GfpJX5e3PpgI066PUxasMS0SJfFgjzc"
+- **token** : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJpYXQiOjE3MzAxMjA1ODksImV4cCI6MTczMDM3OTc4OX0.DmHUiIQH9wAtNXkmXzbx2vSgEuOFV9tGpN2bdqxmOAM"
 
 ## Run Locally
 
